@@ -1,7 +1,7 @@
-### Hi there 👋
-### 🥷🏻 I'm a secret Ninja 🥷🏻
-### Currently working in Cybersecurity
-### [Check my first Website](https://mat079.github.io/)
+### 👋 Hi there 👋
+### 🎉 https://mat079.github.io 🎉
+### 🥷 Currently working in Cybersecurity 🥷
+
 
 
 <!--
